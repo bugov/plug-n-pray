@@ -1,0 +1,19 @@
+{
+  "name": "plug-n-pray",
+  "version": "1.0.0",
+  "description": "What if everything is a plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul test test.js"
+  },
+  "keywords": [
+    "framework",
+    "web",
+    "plugin"
+  ],
+  "author": "Georgy Bazhukov",
+  "license": "ISC",
+  "dependencies": {
+    "istanbul": "^0.4.5"
+  }
+}
